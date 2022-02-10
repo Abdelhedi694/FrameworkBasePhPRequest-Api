@@ -1,0 +1,8 @@
+.cardImg {
+  max-width: 150px;
+}
+
+.formMessage {
+  display: flex;
+  flex-direction: column;
+}
